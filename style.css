@@ -719,6 +719,9 @@ span
     .faculty_card{ transform: scale(0.8); position: relative; margin-top: -10%; margin-bottom: -10%;}
     .faculty_body{ display: flex; flex-wrap: wrap;  }
     .atul_sir{font-size: 15px;}
+    .amol_sir{font-size: 15px;}
+    .patil_sir{font-size: 15px;}
+    .mayuri_mam{font-size: 15px;}
 
     /* ===================================== topper/campus ======================================= */
     .toper_campus_body{width: 100%; margin-top: -1120%; transform: scale(0.5); margin-left: -3%;}
