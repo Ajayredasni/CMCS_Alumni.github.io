@@ -681,6 +681,7 @@ span
 @media screen and (max-width:767px)
 {
     .body{padding: 4%;}
+    .header_img_holder{background-position-y: 80%;}
     /* ===================================== home ============================================ */
     .nav_tab{ font-size: 12px; width: 150px;}
     .a{text-decoration: none; margin-right: 5px;  transform: translate(-30%,10%);}
