@@ -685,7 +685,7 @@ span
     .nav_tab{ font-size: 12px; width: 150px;}
     .a{text-decoration: none; margin-right: 5px;  transform: translate(-30%,10%);}
     .header_top{height: 7%; width: 100%;}
-    .header_img_holder{ height: 35%; width: 100%; background-position-y: 350%; background-size: 200%;   }
+    .header_img_holder{ height: 35%; width: 100%; background-position-y: 100%; background-size: 200%;   }
     .collage_name{ font-size: 50px; }
     .wellcome{ font-size: 20px; }
     .about_name{font-size: 35px;}
@@ -701,16 +701,16 @@ span
     .about_text::first-letter{font-size: 25px;}
 
     /* ========================================= Extracaliculam ================================== */
-    .holder h1{font-size: 35px; margin-top: 5%; margin-bottom: 5%;}
+    .holder h1{font-size: 34px; margin-top: 5%; margin-bottom: 5%;}
     .left{width: 100%;}
     .right{width: 100%; margin-left: -70%;}
-    .right p { margin-top: 85%; font-size: 18px; margin-bottom: 30%; }
+    .right p { margin-top: 85%; font-size: 17px; margin-bottom: 30%; }
     .twodiv_businessdetailpage{ width: 310px; height: 330px; position: absolute; margin-top: 10%; }
     .container_extracaliculam{ margin-top: -90%; }
 
     .holder_right{ width: 100%; margin-left: -0%; margin-top: 10%; margin-bottom: 10%; }
-    .left p { margin-top: 95%; margin-left: -5%; font-size: 18px; margin-bottom: 30%;}
-    .left h1{ font-size: 35px; margin-left: -5%; margin-top: 0%; }
+    .left p { margin-top: 95%; margin-left: -5%; font-size: 17px; margin-bottom: 30%;}
+    .left h1{ font-size: 34px; margin-left: -5%; margin-top: 0%; }
     .big_right{ transform: translate(-19%,0%); border-radius: 25px; }
     .holder_right{ margin-left: 0%;  }
     #Seminar{ margin-bottom: 10%; }
